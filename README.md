@@ -14,6 +14,7 @@ Link : <a href = "https://www.youtube.com/watch?v=JxzZxdht-XY&ab_channel=CodeWit
 `python3 manage.py runserver`
 
 ![Screenshot of Home Page](/img/plants.png)
+
 #
 <h4> Things to Learn for a Beginner </h4>
 <ul>
