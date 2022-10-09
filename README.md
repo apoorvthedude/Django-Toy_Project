@@ -5,6 +5,13 @@ This is a Toy Project,if anyone want to learn and build a website using django t
 This repo is inspired by CodeWithHarry video tutorial.<br>
 Link : <a href = "https://www.youtube.com/watch?v=JxzZxdht-XY&ab_channel=CodeWithHarry">CodeWithHarry</a>
 #
+<b> NOTE: </b> <p> It is better practice to install virtualenv & then install all the requirements </p>
+`pip3 install virtualenv`
+
+`virtualenv name` : name = name of your virtualenv,you can take any.
+
+Ex : `virtualenv .venv`
+
 <p> Install the dependancies from requirements.txt file </p>
 
 `pip3 install -r requirements.txt`
