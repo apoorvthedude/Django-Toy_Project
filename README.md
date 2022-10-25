@@ -1,4 +1,4 @@
-# Django1-Toy_Project
+# Django (Toy_Project)
 
 This is a Toy Project,if anyone want to learn and build a website using django then you can check this repository.
 
