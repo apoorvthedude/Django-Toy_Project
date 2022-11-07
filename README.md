@@ -18,7 +18,7 @@ Ex : `virtualenv .venv`
 ![Screenshot of Home Page](/img/plants.png)
 
 #
-<h4> Things Beginners will learn after building this project </h4>
+<h4> Things u will learn after building this project </h4>
 <ul>
 <li> URL Routing 
 <li> Django Templates
